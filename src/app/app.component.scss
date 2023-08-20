@@ -314,7 +314,7 @@ p {
         color: #333;
 
         h2 {
-          margin-top: -15px;
+          margin-top: -10px;
           a{
             color: #d6d6d6;
 
@@ -406,16 +406,14 @@ p {
         }
       }
 
-      // .info-personal-img {
-      //   width: 90%;
+      .info-personal-img {
 
-      //   img {
-      //     max-width: 100%;
-      //     margin: auto;
-      //     padding-left: 20px;
+        img {
+          max-width: 100%;
+          margin-left: 5px;
 
-      //   }
-      // }
+        }
+      }
     }
 
   }
